@@ -20,7 +20,6 @@ var twoSum = function(nums, target) {
 
     // for (let i = 0; i < nums.length; i++) {
     //     const complement = target - nums[i];
-    //     console.log(complement, pairs)
     //     if (pairs.has(complement)) {
     //         return [pairs.get(complement), i];
     //     }
